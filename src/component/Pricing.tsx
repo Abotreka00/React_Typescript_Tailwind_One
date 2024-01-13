@@ -2,7 +2,7 @@ import { Check } from "lucide-react"
 
 function Pricing() {
   return (
-    <div className="relative w-full">
+    <div className="relative w-full mt-[50px]">
       <div className="absolute top-0 left-0 w-full h-[70%] bg-slate-900"></div>
       <div className="relative text-3xl">
         <h4 className="text-center text-white pt-10">PRICING</h4>
