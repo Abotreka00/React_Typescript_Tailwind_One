@@ -3,7 +3,7 @@ import imgBgPeople from "../assets/support.jpg"
 
 function Support() {
   return (
-    <div className="bg-zinc-100 mb-[50px] relative w-full">
+    <div className="bg-zinc-100 my-[50px] relative w-full">
         <div className="w-full h-[450px] absolute bg-gray-900/90 ">
             <img className="w-full h-full object-cover mix-blend-overlay" src={imgBgPeople} alt="imgBgPeople" />
         </div>
